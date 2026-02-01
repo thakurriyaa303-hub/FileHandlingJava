@@ -1,0 +1,10 @@
+﻿Data written to file successfully.
+
+Reading data from file:
+Hello! This is the first line of the file.
+
+File modified successfully.
+
+Reading data from file:
+Hello! This is the first line of the file.
+This line is added later to modify the file.
